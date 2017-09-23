@@ -43,6 +43,8 @@ Skim the rest of the articles as backgrund for the individual HTTP exercises
 - [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 - [Cookies](https://en.wikipedia.org/wiki/HTTP_cookie) 
 ### Day-2
+Before anything else you MUST [watch this video](https://www.youtube.com/watch?v=ub1o0M_DizM). It's a bit outdated, but still one of the most genius educational videos ever made
+
 Read the first article to get an idea about the TCP/IP Protocol Stack (a complete understanding of this stack could take a full period)
 - [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
 - [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
