@@ -47,7 +47,7 @@ Read the first article to get an idea about the TCP/IP Protocol Stack (a complet
 - [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
 - [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
 
-These are practiacal tools which you should know about (what can each of the do). We don't provide references, but use Google (before and during) the lesson:
+These are practiacal tools which you should know about (what can each of them can do). We don't provide references, but use Google (before and during) the lesson:
 - nslookup
 - ipconfig   (MAC/Linux     ifconfig)
 - Ping
