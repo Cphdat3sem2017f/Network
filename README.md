@@ -26,7 +26,7 @@ SSL and HTTPS intro. How to set up DO with a domanin name, Nginx and SSL
 
 ## Business competences
 This week will provide students with:
-- The necessary background to implement and code user defined network protocols.
+- The necessary background to implement and code user defined network protocols on top of TCP or UDP.
 - The minimal network knowledge, required to setup a Web Server Infrastructure used by a professional web-application
 
 
