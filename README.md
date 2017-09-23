@@ -55,6 +55,12 @@ These are practiacal tools which you should know about (what can each of them ca
 - TraceRoute (Windows tracert)
 - Telnet
 
+### Day-3
+[Socket Progamming in Java (video)](https://www.youtube.com/watch?v=3YoKVswJsKI) If you like a Visual Presentaion of a problem, you should really watch this video before todays lecture
+[All About Sockets](https://docs.oracle.com/javase/tutorial/networking/sockets/index.html) (Oracle Tutorial)
+[A guide to Java Sockets](http://www.baeldung.com/a-guide-to-java-sockets) (Read, Code and understand this example, and you will know what you need to know for CA-2)
+
+
 
 
 
