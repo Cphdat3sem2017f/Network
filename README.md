@@ -25,6 +25,10 @@ SSL and HTTPS intro. How to set up DO with a domanin name, Nginx and SSL
 - Understand and use concepts required to setup a Server with a domain name, Reverse Proxy and SSL
 
 ## Business competences
+This week will provide students with:
+- The necessary background to implement and code user defined network protocols.
+- The minimal network knowledge, required to setup a Web Server Infrastructure used by a professional web-application
+
 
 ## Exercises 
 
