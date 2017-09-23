@@ -62,6 +62,16 @@ These are practiacal tools which you should know about (what can each of them ca
 - [All About Sockets](https://docs.oracle.com/javase/tutorial/networking/sockets/index.html) (Oracle Tutorial)
 - [A guide to Java Sockets](http://www.baeldung.com/a-guide-to-java-sockets) (Read, Code and understand this example, and you will know what you need to know for CA-2)
 
+### Day-4
+#### Part-1 X as a Service (using the Cloud)
+[Infrastructure as a Service](https://www.ibm.com/developerworks/cloud/library/cl-cloudservices1iaas/index.html)
+[Platform as a Service](https://www.ibm.com/developerworks/cloud/library/cl-cloudservices2paas/index.html)
+
+#### Part-2 Web Server Architectures 
+[Reverse Proxy](https://en.wikipedia.org/wiki/Reverse_proxy)
+[Reverse Proxy (Nginx)](https://www.nginx.com/resources/glossary/reverse-proxy-server/)
+
+ 
 
 
 
