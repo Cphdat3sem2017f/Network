@@ -32,6 +32,9 @@ This week will provide students with:
 
 ## Exercises 
 - [Day-1](https://docs.google.com/document/d/1OjKW7PGWn231x4mWqhDNtBqTfZGlrS7a21io--BnGLA/edit?usp=sharing)
+- Day-2 TBD
+- [Day-3 (Java Socket Programming](https://docs.google.com/document/d/1q2gcCyZKuPPhJOq83k5EPGaarVFUjXktNf-6BFWFl00/edit?usp=sharing)
+- Day-4 TBD
 
 ## Resources: 
 ### Day-1
