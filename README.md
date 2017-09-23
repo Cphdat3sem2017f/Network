@@ -31,5 +31,30 @@ This week will provide students with:
 
 
 ## Exercises 
+- [Day-1](https://docs.google.com/document/d/1OjKW7PGWn231x4mWqhDNtBqTfZGlrS7a21io--BnGLA/edit?usp=sharing)
 
 ## Resources: 
+### Day-1
+Read/Skim the first 16 pages in the first document below (by know it should be familar stuff)
+
+Skim the rest of the articles as backgrund for the individual HTTP exercises
+- [HTTP](http://www.tutorialspoint.com/http/http_tutorial.pdf)
+- [Same Origine Policy](https://en.wikipedia.org/wiki/Same-origin_policy)
+- [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+- [Cookies](https://en.wikipedia.org/wiki/HTTP_cookie) 
+### Day-2
+Read the first article to get an idea about the TCP/IP Protocol Stack (a complete understanding of this stack could take a full period)
+- [TCP/IP Protocol Fundamentals Explained with a Diagram](http://www.thegeekstuff.com/2011/11/tcp-ip-fundamentals)
+- [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
+
+These are practiacal tools which you should know about (what can each of the do). We don't provide references, but use Google (before and during) the lesson:
+- nslookup
+- ipconfig   (MAC/Linux     ifconfig)
+- Ping
+- Netstat
+- TraceRoute (Windows tracert)
+- Telnet
+
+
+
+
