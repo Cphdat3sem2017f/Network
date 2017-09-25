@@ -28,8 +28,3 @@ HTTPS
 
 **Day 5 - Study point exercises**<br>
 *Study point exercises*
-
-## References
-
-**HTTP**<br>
-<a href="" target="_blank">HTTP</a><br>
