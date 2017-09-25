@@ -1,7 +1,8 @@
 # NETWORK
 
 <a href="Network-Notes.pdf" target="_blank">Network - Notes</a><br>
-<a href="" target="_blank">Netbeans Maven Project - CORS</a><br>
+<a href="HTTP" target="_blank">Netbeans Maven Project - HTTP</a><br>
+<a href="CORS" target="_blank">Netbeans Maven Project - CORS</a><br>
 
 ## Plan
 

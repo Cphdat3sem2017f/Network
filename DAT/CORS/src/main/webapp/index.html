@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CORS</title>
+    </head>
+
+    <body>
+        
+        <h1>CORS</h1>
+
+        <script>
+
+            tryURL("api/cors/default");
+            tryURL("api/cors/disallowed");
+            tryURL("api/cors/allowed");
+            tryURL("http://ip.jsontest.com/?alloworigin=false");
+            tryURL("api/cors/corsproxy");
+
+            function tryURL(url)
+            {
+                fetch(url, {method: "get"})
+                        .then(function (response) {
+                            if (!response.ok)
+                            {
+                                throw error;
+                            }
+                            return response.json();
+                        })
+                        .then(function (json) {
+                            alert("GET OK - " + url);
+                        })
+                        .catch(function (error) {
+                            alert("GET FAILED - " + url);
+                        });
+            }
+        </script>
+
+    </body>
+</html>
