@@ -6,3 +6,4 @@ using this [start code](https://github.com/Lars-m/callableFutureGroupFetcher.git
 
 #### Rest of the Day
 - HTTP Continued (Caching, HTTP Sessions, Cookies and CORS)
+- [HTTP Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=05f956c9304fe4b3b9ef5e626ce1df3bd&authkey=AfFUG-AXhD79TJgI9sDhnxY)
