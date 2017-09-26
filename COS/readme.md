@@ -9,5 +9,6 @@ using this [start code](https://github.com/Lars-m/callableFutureGroupFetcher.git
 - [HTTP Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=05f956c9304fe4b3b9ef5e626ce1df3bd&authkey=AfFUG-AXhD79TJgI9sDhnxY)
 
 ## Day-2
-
 [Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=00e0bb8da567247a8a218b1510196938f&authkey=Ad2ARTs_Q6HPCl8_DHOUVsQ)
+## Day-3
+[Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=088f81a9581d0416b9ad8a9a9dfb1604f&authkey=AewDKw_JQpslyC4i86OXjc0)
