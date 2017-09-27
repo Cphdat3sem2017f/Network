@@ -27,10 +27,11 @@ Ports<br>
 *Exercise 3*<br>
 
 **Day 4 - Server configuration**<br>
-Digital Ocean
-Domain name
-Nginx
-HTTPS
+Digital Ocean<br>
+Domain name<br>
+Nginx<br>
+SSL<br>
+HTTPS<br>
 *Exercise 4*<br>
 
 **Day 5 - Study point exercises**<br>
