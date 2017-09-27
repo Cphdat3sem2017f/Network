@@ -3,6 +3,7 @@
 <a href="Network-Notes.pdf" target="_blank">Network - Notes</a><br>
 <a href="HTTP" target="_blank">Netbeans Maven Project - HTTP</a><br>
 <a href="CORS" target="_blank">Netbeans Maven Project - CORS</a><br>
+<a href="SOCKET" target="_blank">Netbeans Maven Project - SOCKET</a><br>
 
 ## Plan
 
@@ -21,6 +22,7 @@ DNS<br>
 **Day 3 - Socket programming**<br>
 TCP / UDP<br>
 Connections<br>
+Sockets<br>
 Ports<br>
 *Exercise 3*<br>
 
