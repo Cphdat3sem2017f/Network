@@ -19,7 +19,9 @@ DNS<br>
 *Exercise 2*<br>
 
 **Day 3 - Socket programming**<br>
-TCP / UDP
+TCP / UDP<br>
+Connections<br>
+Ports<br>
 *Exercise 3*<br>
 
 **Day 4 - Server configuration**<br>
