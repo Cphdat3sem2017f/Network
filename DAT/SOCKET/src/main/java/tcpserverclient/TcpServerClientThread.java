@@ -18,7 +18,7 @@ public class TcpServerClientThread extends Thread
     
     public void run()
     {
-        System.out.println("Server log: New communication thread started...");
+        System.out.println("Server log: Client connected...");
 
         try
         {
@@ -48,7 +48,7 @@ public class TcpServerClientThread extends Thread
                 else if (clientInput.equals( "LEAVE#" ))
                 {
                     System.out.println("Server log: Asked to leave...");
-                    System.out.println("Server log: Communication thread stopped...");
+                    System.out.println("Server log: Client disconnected...");
                     
                     toClient.println("GOODBYE..." );
                     
@@ -66,7 +66,7 @@ public class TcpServerClientThread extends Thread
             fromClient.close();
             clientSocket.close();
         }
-        catch ( IOException e )
+        catch ( Exception e )
         {
             System.out.println( "Server log: Problem with Communication Server..." );
         }
