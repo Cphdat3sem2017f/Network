@@ -31,8 +31,8 @@ Digital Ocean<br>
 Upload JAR / Start JAR / Stop JAR<br>
 Domain name<br>
 Infrastructure / Platform<br>
-Load balancing / Virtualization<br>
 Reverse proxy<br>
+Load balancing / Virtualization<br>
 Nginx<br>
 SSL<br>
 HTTPS<br>
