@@ -30,12 +30,13 @@ Ports<br>
 Digital Ocean<br>
 Upload JAR / Start JAR / Stop JAR<br>
 Domain name<br>
-Infrastructure / Platform<br>
-Reverse proxy<br>
-Load balancing / Virtualization<br>
-Nginx<br>
-SSL<br>
+Security<br>
+TLS/SSL<br>
 HTTPS<br>
+Reverse proxy<br>
+Nginx<br>
+Virtualization<br>
+
 *Exercise 4*<br>
 
 **Day 5 - Study point exercises**<br>
