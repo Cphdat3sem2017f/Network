@@ -14,3 +14,8 @@ using this [start code](https://github.com/Lars-m/callableFutureGroupFetcher.git
 [Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=088f81a9581d0416b9ad8a9a9dfb1604f&authkey=AewDKw_JQpslyC4i86OXjc0)
 
 [Snippets for code samples](https://docs.google.com/document/d/1UwsbhJWybxGbCzWB-pYp8VLeJdGwYsxlsAJvpinZGlc/edit?usp=sharing)
+
+## Day-4
+
+[Slides - Security](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=05cfcb6e243cb42df92f8371a2309df51&authkey=AcelND1RJpsVizwj29ihBSI)
+[Slides - Virtualisering og "Skyen"](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=0f6157ac2da914f33ab1d46c082764c4f&authkey=AYcPnc2BWhlLoHiYvqKhmIw)
